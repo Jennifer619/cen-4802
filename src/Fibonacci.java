@@ -1,5 +1,5 @@
 /**
- * @author jenni
+ * @author Jennifer Miller
  *
  */
 public class Fibonacci {
