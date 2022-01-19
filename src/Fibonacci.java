@@ -5,6 +5,7 @@
 public class Fibonacci {
 	// recursive method
 	/**
+	 * retrieves data of fibonacci sequence
 	 * @param n
 	 * @return nth integer of fibonacci sequence
 	 */
@@ -17,8 +18,9 @@ public class Fibonacci {
 	// main method
 	
 	/**
-	 * @param args
 	 * takes n integer value and outputs it in text
+	 * @param args
+	 * @return none
 	 */
 	public static void main (String args[]) {
 		int n = 10;
